@@ -74,7 +74,3 @@ bot.on("ready", () => {
   bot.user.setStatus("idle")
   bot.user.setGame("Legend.DanielvdSpoel.nl || >help")
 });
-
-//login
-bot.login("MzQ1MTQ4Nzc5OTExMDUzMzEy.DJGNIg.fGMY3bvtViBAK19c0YeizQnHHX0")
-//token: MzQ1MTQ4Nzc5OTExMDUzMzEy.DJGNIg.fGMY3bvtViBAK19c0YeizQnHHX0
